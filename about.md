@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a long time IT enthusiast who loves to continually learn new things.
 
 ### More Information
 
