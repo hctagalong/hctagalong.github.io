@@ -8,8 +8,11 @@ I'm a long time IT enthusiast who loves to continually learn new things.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Besides learning new things I enjoy:
+* Spending time with my Girls
+* Bicycling
+* Snowboarding
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[djdeemer@hotmail.com](mailto:djdeemer@hotmail.com)
